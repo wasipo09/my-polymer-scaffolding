@@ -1,0 +1,21 @@
+{
+  "name": "my-polymer-scaffolding",
+  "version": "0.0.1",
+  "authors": [
+    "Wasipo"
+  ],
+  "description": "Polymer's SPA scaffolding",
+  "main": "index.html",
+  "keywords": [
+    "polymer"
+  ],
+  "license": "MIT",
+  "homepage": "wasipo.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
